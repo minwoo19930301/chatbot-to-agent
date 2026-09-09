@@ -1,0 +1,34 @@
+[
+  {
+    "name": "markdown-memory",
+    "source": "composition/assets/markdown-memory.png",
+    "output": "composition/assets/cutouts/markdown-memory.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "alpha0": 821103,
+    "alpha255": 711485,
+    "partial": 39928,
+    "transparentPercent": 52.22,
+    "opaquePercent": 45.25,
+    "sourceSHA256": "64c1c54dd48848e259a45fd473b1714ff8b3d7c0c6c00da67931d8d33cba1acd",
+    "outputSHA256": "d51b1918a6061aca8ae7cdf6f57aac3ab4efc7fec235b508d03ddf36f72f93cc"
+  },
+  {
+    "name": "ax-workspace",
+    "source": "composition/assets/ax-workspace.png",
+    "output": "composition/assets/cutouts/ax-workspace.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "alpha0": 1204390,
+    "alpha255": 303306,
+    "partial": 64820,
+    "transparentPercent": 76.59,
+    "opaquePercent": 19.29,
+    "sourceSHA256": "7c258dc5f6bd232c27799d2c64df93647a01579af4be45045383365ade925b38",
+    "outputSHA256": "2f022ffb3d0ae23838f70ab8b2f943510ec3607eba136416638c491566af157d"
+  }
+]

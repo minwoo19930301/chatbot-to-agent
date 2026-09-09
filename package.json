@@ -1,0 +1,15 @@
+{
+  "name": "codex-lecture-motion",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-wrapper.mjs",
+    "dev": "npm run build && node scripts/serve.mjs --start",
+    "serve": "node scripts/serve.mjs",
+    "present": "npm run dev",
+    "status": "node scripts/serve.mjs --status",
+    "stop": "node scripts/serve.mjs --stop",
+    "check": "npx --yes hyperframes@0.8.33 check ./composition",
+    "lint": "npx --yes hyperframes@0.8.33 lint ./composition"
+  }
+}

@@ -1,0 +1,17 @@
+# Portable agent context illustrations
+
+Created 2026-09-09 with the built-in imagegen tool. New assets with no image references.
+
+
+
+## markdown-memory.png
+
+Create a new premium 3D product illustration on a pure white #ffffff seamless background. Subject: a physical stack of three upright white document sheets, slightly fanned with crisp folded top-right corners, a slim brushed-silver tray at their bottom edge, very restrained bright green tabs on the rear pages. The FRONT PAGE prominently displays exactly the short black text ".md" in a large clean modern sans-serif font centered in its middle. Spell it precisely: period, lowercase m, lowercase d. No other text, no lines that look like words, no logos. The files represent portable Markdown working memory stored on someone's own computer. Front-on camera with only a slight three-quarter angle, object fully visible in central 72% of a square frame, plenty of white margin. Refined tactile matte paper, ceramic white and tiny green accents, soft studio lighting, subtle natural gray grounding shadow. Sharp clean detailed render matching minimalist silver/white AI lecture artwork. No people, no computer, no scenery, no annotations.
+
+## personal-context.png
+
+One fresh high-end 3D conceptual illustration for a minimalist white educational deck about a personal AI work environment. Three upright white ceramic document panels arranged as one cohesive small desk organizer: left panel carries a single vivid green checkmark and three subtle gray horizontal rules; center panel has a simple gray calendar grid with one bright green day square; right panel carries three brushed-silver adjustment sliders with vivid green round knobs at different positions. No words, numbers, dates, letters or logos. The three panels stand in a single slim brushed aluminum base. They symbolize accumulated work decisions, personal schedule, and preferences. Premium tactile white matte ceramic and brushed silver, restrained fresh-green accent, gentle three-quarter view, soft studio lighting, delicate gray grounding shadow. Pure white #ffffff background. Entire organizer centered in the middle 78 percent of a square frame with generous white margins, no people, no other objects. Calm, precise, sharp product-photography rendering.
+
+## ax-workspace.png
+
+A new premium 3D conceptual illustration on a seamless pure white #ffffff background for the end of an educational deck about organizations adopting AI. A small coordinated arrangement of three silver desktop workstations seen in gentle three-quarter isometric view, arranged in a shallow triangle around ONE shared central stack of white document sheets. Each monitor shows a different simple clean green geometric work result: a bar chart, a calendar grid with one green square, and a checklist of three green checks. No text on screens. The front of the central document stack displays exactly ".md" in clean dark sans-serif lowercase lettering. Three restrained thin green physical connection strips link the central documents with the three workstations, making the structure clear and uncluttered. Brushed aluminum, matte white ceramic and paper, small vivid green accents, soft studio light and delicate gray grounding shadows. Entire arrangement fits in central 82 percent of a square frame, large clean margins. No people, no company logos, no words except ".md", no background environment, no decorative particles. Crisp product-photography-quality rendering matching silver white AI education objects.

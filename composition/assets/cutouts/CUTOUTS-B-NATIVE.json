@@ -1,0 +1,100 @@
+[
+  {
+    "cropped": false,
+    "foreground_instances": [
+      1
+    ],
+    "format": "RGBA8 PNG",
+    "height": 1254,
+    "input": "composition/assets/html-flyer.png",
+    "method": "Apple Vision foreground-instance mask",
+    "output": "composition/assets/cutouts/html-flyer.png",
+    "requires_visual_and_alpha_validation": true,
+    "width": 1254,
+    "elapsed_seconds": 0.584
+  },
+  {
+    "cropped": false,
+    "foreground_instances": [
+      1
+    ],
+    "format": "RGBA8 PNG",
+    "height": 1254,
+    "input": "composition/assets/own-site.png",
+    "method": "Apple Vision foreground-instance mask",
+    "output": "composition/assets/cutouts/own-site.png",
+    "requires_visual_and_alpha_validation": true,
+    "width": 1254,
+    "elapsed_seconds": 0.19
+  },
+  {
+    "cropped": false,
+    "foreground_instances": [
+      1
+    ],
+    "format": "RGBA8 PNG",
+    "height": 1254,
+    "input": "composition/assets/agent-hand.png",
+    "method": "Apple Vision foreground-instance mask",
+    "output": "composition/assets/cutouts/agent-hand.png",
+    "requires_visual_and_alpha_validation": true,
+    "width": 1254,
+    "elapsed_seconds": 0.182
+  },
+  {
+    "cropped": false,
+    "foreground_instances": [
+      1
+    ],
+    "format": "RGBA8 PNG",
+    "height": 1254,
+    "input": "composition/assets/personal-context.png",
+    "method": "Apple Vision foreground-instance mask",
+    "output": "composition/assets/cutouts/personal-context.png",
+    "requires_visual_and_alpha_validation": true,
+    "width": 1254,
+    "elapsed_seconds": 0.189
+  },
+  {
+    "cropped": false,
+    "foreground_instances": [
+      1
+    ],
+    "format": "RGBA8 PNG",
+    "height": 1254,
+    "input": "composition/assets/automation-calendar.png",
+    "method": "Apple Vision foreground-instance mask",
+    "output": "composition/assets/cutouts/automation-calendar.png",
+    "requires_visual_and_alpha_validation": true,
+    "width": 1254,
+    "elapsed_seconds": 0.196
+  },
+  {
+    "cropped": false,
+    "foreground_instances": [
+      1
+    ],
+    "format": "RGBA8 PNG",
+    "height": 1254,
+    "input": "composition/assets/decision-console.png",
+    "method": "Apple Vision foreground-instance mask",
+    "output": "composition/assets/cutouts/decision-console.png",
+    "requires_visual_and_alpha_validation": true,
+    "width": 1254,
+    "elapsed_seconds": 0.189
+  },
+  {
+    "cropped": false,
+    "foreground_instances": [
+      1
+    ],
+    "format": "RGBA8 PNG",
+    "height": 1254,
+    "input": "composition/assets/human-work.png",
+    "method": "Apple Vision foreground-instance mask",
+    "output": "composition/assets/cutouts/human-work.png",
+    "requires_visual_and_alpha_validation": true,
+    "width": 1254,
+    "elapsed_seconds": 0.195
+  }
+]

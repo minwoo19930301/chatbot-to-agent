@@ -1,0 +1,414 @@
+[
+  {
+    "name": "html-flyer",
+    "source": "composition/assets/html-flyer.png",
+    "output": "composition/assets/cutouts/html-flyer.png",
+    "canvas": [
+      1254,
+      1254
+    ],
+    "source_sha256": "8a69b73d314106637fa06a89a8ebd144cc6c49088c840933cf959d2dbc7c7a19",
+    "output_sha256": "5459a8d7f1afc66f5f28ffd6ac2fb4ec03cbbcdecd680d9e3c107d395ed2c8b9",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_pixels": 923398,
+    "opaque_pixels": 611630,
+    "partial_pixels": 37488,
+    "transparent_percent": 58.72,
+    "opaque_percent": 38.89,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "interior_samples": [
+      {
+        "xy": [
+          350,
+          220
+        ],
+        "rgba": [
+          238,
+          238,
+          240,
+          255
+        ]
+      },
+      {
+        "xy": [
+          850,
+          950
+        ],
+        "rgba": [
+          235,
+          235,
+          236,
+          255
+        ]
+      }
+    ]
+  },
+  {
+    "name": "own-site",
+    "source": "composition/assets/own-site.png",
+    "output": "composition/assets/cutouts/own-site.png",
+    "canvas": [
+      1254,
+      1254
+    ],
+    "source_sha256": "3c488483e876c7ce94d86ddd07e4354b773b4e36b1918e3dc629343d02d6efd3",
+    "output_sha256": "dac1cfbb68a7157d86938264a19a1e682d0f12614ade3a1bd3ce10e85eae2e3c",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_pixels": 833956,
+    "opaque_pixels": 698607,
+    "partial_pixels": 39953,
+    "transparent_percent": 53.03,
+    "opaque_percent": 44.43,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "interior_samples": [
+      {
+        "xy": [
+          780,
+          410
+        ],
+        "rgba": [
+          234,
+          234,
+          235,
+          255
+        ]
+      },
+      {
+        "xy": [
+          650,
+          690
+        ],
+        "rgba": [
+          230,
+          230,
+          229,
+          255
+        ]
+      }
+    ]
+  },
+  {
+    "name": "agent-hand",
+    "source": "composition/assets/agent-hand.png",
+    "output": "composition/assets/cutouts/agent-hand.png",
+    "canvas": [
+      1254,
+      1254
+    ],
+    "source_sha256": "3ade3a216b1667be0fbc5b8ee3a4c36e0a853e1f9747971c6bfd53711f019a29",
+    "output_sha256": "4c3ddc5bd27fbdd7b2c332d1663b3a425b7e19bb46fc7943910a1ed6d72eeb04",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_pixels": 1173170,
+    "opaque_pixels": 350822,
+    "partial_pixels": 48524,
+    "transparent_percent": 74.6,
+    "opaque_percent": 22.31,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "interior_samples": [
+      {
+        "xy": [
+          690,
+          635
+        ],
+        "rgba": [
+          242,
+          241,
+          241,
+          255
+        ]
+      },
+      {
+        "xy": [
+          270,
+          850
+        ],
+        "rgba": [
+          195,
+          194,
+          193,
+          255
+        ]
+      }
+    ]
+  },
+  {
+    "name": "personal-context",
+    "source": "composition/assets/personal-context.png",
+    "output": "composition/assets/cutouts/personal-context.png",
+    "canvas": [
+      1254,
+      1254
+    ],
+    "source_sha256": "75e7e0ca1628e697374214b10172f1a1cfd3b5706497f1046742023278a9156b",
+    "output_sha256": "4fed54225200ea2f4cceae3c9cd966599506d6d08252a397ef1ec4148cd80bc2",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_pixels": 951821,
+    "opaque_pixels": 582875,
+    "partial_pixels": 37820,
+    "transparent_percent": 60.53,
+    "opaque_percent": 37.07,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "interior_samples": [
+      {
+        "xy": [
+          240,
+          400
+        ],
+        "rgba": [
+          235,
+          236,
+          235,
+          255
+        ]
+      },
+      {
+        "xy": [
+          620,
+          385
+        ],
+        "rgba": [
+          236,
+          235,
+          236,
+          255
+        ]
+      },
+      {
+        "xy": [
+          1040,
+          365
+        ],
+        "rgba": [
+          236,
+          235,
+          236,
+          255
+        ]
+      }
+    ]
+  },
+  {
+    "name": "automation-calendar",
+    "source": "composition/assets/automation-calendar.png",
+    "output": "composition/assets/cutouts/automation-calendar.png",
+    "canvas": [
+      1254,
+      1254
+    ],
+    "source_sha256": "13640f4b847d404995cf287dd7332d23eeebc4ea44c4ba19b4fc09d1ef304d59",
+    "output_sha256": "81397628bb1bfdc9c6c3b1c9af6a33c25688dca9fcaee93e0dea57681625335d",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_pixels": 805935,
+    "opaque_pixels": 715297,
+    "partial_pixels": 51284,
+    "transparent_percent": 51.25,
+    "opaque_percent": 45.49,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "interior_samples": [
+      {
+        "xy": [
+          490,
+          470
+        ],
+        "rgba": [
+          240,
+          239,
+          239,
+          255
+        ]
+      },
+      {
+        "xy": [
+          990,
+          770
+        ],
+        "rgba": [
+          35,
+          35,
+          36,
+          255
+        ]
+      }
+    ]
+  },
+  {
+    "name": "decision-console",
+    "source": "composition/assets/decision-console.png",
+    "output": "composition/assets/cutouts/decision-console.png",
+    "canvas": [
+      1254,
+      1254
+    ],
+    "source_sha256": "0b69355a50b37818dd3623ae6a13aa3cbfc242376765c2ef85a83bbcc40aab8e",
+    "output_sha256": "24c7906cab23933bb58b6e2c355b95db045f4f45a6ed17d4740570bf47a39e3b",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_pixels": 922129,
+    "opaque_pixels": 603743,
+    "partial_pixels": 46644,
+    "transparent_percent": 58.64,
+    "opaque_percent": 38.39,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "interior_samples": [
+      {
+        "xy": [
+          600,
+          890
+        ],
+        "rgba": [
+          163,
+          162,
+          160,
+          255
+        ]
+      }
+    ]
+  },
+  {
+    "name": "human-work",
+    "source": "composition/assets/human-work.png",
+    "output": "composition/assets/cutouts/human-work.png",
+    "canvas": [
+      1254,
+      1254
+    ],
+    "source_sha256": "7dac0807c356da46f80eda41caa768a659b439b56f2e8c4ce27e0f431d27487b",
+    "output_sha256": "a27c83768592703dcbb83dc41c86e9240d3d3f05c8da46804da06c90280110d6",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_pixels": 781839,
+    "opaque_pixels": 681757,
+    "partial_pixels": 108920,
+    "transparent_percent": 49.72,
+    "opaque_percent": 43.35,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "interior_samples": [
+      {
+        "xy": [
+          320,
+          255
+        ],
+        "rgba": [
+          222,
+          220,
+          221,
+          255
+        ]
+      },
+      {
+        "xy": [
+          640,
+          180
+        ],
+        "rgba": [
+          213,
+          212,
+          212,
+          255
+        ]
+      },
+      {
+        "xy": [
+          1010,
+          290
+        ],
+        "rgba": [
+          219,
+          218,
+          219,
+          255
+        ]
+      },
+      {
+        "xy": [
+          450,
+          670
+        ],
+        "rgba": [
+          233,
+          234,
+          239,
+          255
+        ]
+      },
+      {
+        "xy": [
+          150,
+          960
+        ],
+        "rgba": [
+          221,
+          225,
+          229,
+          255
+        ]
+      },
+      {
+        "xy": [
+          1090,
+          1010
+        ],
+        "rgba": [
+          248,
+          248,
+          249,
+          255
+        ]
+      }
+    ]
+  }
+]

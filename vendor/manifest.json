@@ -1,0 +1,23 @@
+[
+  {
+    "file": "hyperframes-player.global.js",
+    "version": "0.8.31",
+    "source": "npm:hyperframes@0.8.31/dist/hyperframes-player.global.js",
+    "sha256": "b3dbe3fab02491a7267174fe3396265c67f2fb17ca141e5a04788e84608606d7",
+    "bytes": 64037
+  },
+  {
+    "file": "hyperframes-slideshow.global.js",
+    "version": "0.8.31",
+    "source": "npm:hyperframes@0.8.31/dist/hyperframes-slideshow.global.js",
+    "sha256": "eb9eaa04f45a4195b5a0907d02fb14555ba84e9fbbf3d36249507b3ef723be12",
+    "bytes": 40540
+  },
+  {
+    "file": "gsap.min.js",
+    "version": "3.14.2",
+    "source": "https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js",
+    "sha256": "c174bfce53a729418d57a8ad8625e7247c793a22fef8e2851e3cfa3de9cd8280",
+    "bytes": 72779
+  }
+]

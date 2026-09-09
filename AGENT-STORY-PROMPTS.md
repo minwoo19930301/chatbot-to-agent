@@ -1,0 +1,15 @@
+# Agent story artwork — built-in image generation
+
+Saved in composition/assets/. Three new conceptual illustrations made for the HTML → API → agent sequence. The flyer is a metaphor, not a claim that all web applications are static. Logos are separate official assets.
+
+## html-flyer.png
+
+Create one new premium 3D conceptual illustration for a minimalist educational presentation. Subject: a single large physical paper leaflet, upright with a gently curved bottom corner and a crisp white matte surface. It is clearly a printed piece of paper, not a computer monitor. Printed on the leaflet is an extremely simple depiction of a browser chatbot: a thin light silver window outline with three tiny gray circles at top, and four gray / fresh green rounded speech bubbles, no words anywhere. The paper is angled very slightly in three-quarter view, centered on pure white #ffffff background. Soft studio lighting, subtle gray floor shadow, refined tactile paper, clean white / silver / tiny vivid green visual language. Full leaflet visible with generous white margins. Square composition. No title, no letters, no real logo, no human, no background objects, no arrows. The image illustrates a web page as an information leaflet; this is a teaching metaphor.
+
+## own-site.png
+
+One premium 3D product illustration on a pure white #ffffff seamless background. A single elegant physical web browser window slab floating just above the white floor, brushed silver thin frame, subtle three-quarter perspective. The screen represents MY OWN WEBSITE, distinct from a chatbot. It has a simple small green square logo placeholder in upper left, a wide plain pale-gray header block, below that exactly three large simple product/gallery cards with a green cube, a white ceramic sphere and a brushed silver cylinder, and a small empty green chat button at bottom right. No words, no letters, no numbers, no actual company logo. Plenty of blank space on the page, precise calm layout. Soft studio lighting, subtle natural gray shadow, tactile ceramic-and-metal shapes, generous blank margins around the whole window, square composition. This should match refined silver and white educational 3D illustrations with restrained vivid green accents. No other objects outside the window.
+
+## agent-hand.png
+
+One new high-end 3D conceptual product illustration for an AI-agent lecture. Subject: a beautiful articulated robot hand and short forearm, white ceramic outer shells, brushed silver joints, tiny restrained fresh-green accent near wrist. Open palm facing diagonally upward toward the viewer, five distinct anatomically coherent fingers relaxed and slightly curved, hand gesture ready to perform work. No body or head. It should feel like a precise capable helpful tool, not a character. The full short forearm and hand fit comfortably in center 75 percent of a square frame, no cropping. Pure white #ffffff seamless background, soft studio light, delicate gray grounding shadow beneath floating wrist. Photorealistic premium product rendering with clean tactile materials. No text, no logos, no people, no sparkles, no diagrams, no labels, no extra objects.
