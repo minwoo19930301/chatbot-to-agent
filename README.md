@@ -1,5 +1,7 @@
 # ChatBot에서 Agent로
 
+[![OPEN SLIDES](https://img.shields.io/badge/OPEN%20SLIDES-GitHub%20Pages-4caf50?style=for-the-badge&logo=githubpages&logoColor=white)](https://minwoo19930301.github.io/chatbot-to-agent/) [![SOURCE CODE](https://img.shields.io/badge/SOURCE%20CODE-minwoo19930301-e7322d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minwoo19930301/chatbot-to-agent)
+
 큰 사물 그림, 공식 로고, 짧은 문구로 진행하는 49장 HTML 강의입니다. 설명은 발표자 노트에 두고 같은 그림이 장면 사이를 이동·확대하며 이야기를 이어갑니다.
 
 `Start.command`를 더블클릭하거나 `npm run dev`를 실행합니다.
